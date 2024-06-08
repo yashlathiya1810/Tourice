@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('fonts/codecpro-extrabold.eot');
+    src: local('Codec Pro ExtraBold'), local('CodecPro-ExtraBold'),
+        url('fonts/codecpro-extrabold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/codecpro-extrabold.woff2') format('woff2'),
+        url('fonts/codecpro-extrabold.woff') format('woff'),
+        url('fonts/codecpro-extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('fonts/codecpro-news.eot');
+    src: local('Codec Pro News'), local('CodecPro-News'),
+        url('fonts/codecpro-news.eot?#iefix') format('embedded-opentype'),
+        url('fonts/codecpro-news.woff2') format('woff2'),
+        url('fonts/codecpro-news.woff') format('woff'),
+        url('fonts/codecpro-news.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('fonts/codecpro-bold.eot');
+    src: local('Codec Pro Bold'), local('CodecPro-Bold'),
+        url('fonts/codecpro-bold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/codecpro-bold.woff2') format('woff2'),
+        url('fonts/codecpro-bold.woff') format('woff'),
+        url('fonts/codecpro-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Codec Pro';
+    src: url('fonts/codecpro-light.eot');
+    src: local('Codec Pro Light'), local('CodecPro-Light'),
+        url('fonts/codecpro-light.eot?#iefix') format('embedded-opentype'),
+        url('fonts/codecpro-light.woff2') format('woff2'),
+        url('fonts/codecpro-light.woff') format('woff'),
+        url('fonts/codecpro-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
